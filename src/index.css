@@ -1,3 +1,7 @@
+:root {
+    --color-gray: #ababab;
+    --color-red: #f85555;
+}
 
 *{
     box-sizing: border-box;

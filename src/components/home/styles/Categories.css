@@ -1,0 +1,20 @@
+ul {
+    list-style: none;
+}
+
+.categories {
+    color: #a4a1a1;
+    cursor: pointer;
+}
+
+.categories__allProduct:hover {
+    color: var(--color-red);
+}
+
+.categories__list:hover {
+    color: var(--color-red);
+}
+
+hr {
+    border: none;
+}

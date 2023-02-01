@@ -8,6 +8,7 @@ import Cart from './pages/Cart'
 import ProtectedRoutes from './components/app/ProtectedRoutes'
 import Header from './layout/Header'
 
+
 function App() {
 
   return (
